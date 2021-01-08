@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Admin\source\repos\Лаба12\Лаба12\Source.cpp(46,17): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\Лаба12\Лаба12\Source.cpp(47,16): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  Лаба12.vcxproj -> C:\Users\Admin\source\repos\Лаба12\Debug\Лаба12.exe
